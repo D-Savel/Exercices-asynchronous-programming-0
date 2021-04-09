@@ -1,0 +1,11 @@
+{
+  "name": "Exercices-asynchronous-programming-0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:D-Savel/Exercices-asynchronous-programming-0.git",
+  "author": "D-Savel <dad.savel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
